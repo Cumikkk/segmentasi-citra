@@ -46,6 +46,7 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
   https://mti.uad.ac.id/download/segmentasi-citra-luka-luar-berbasis-warna-menggunakan-teknik-active-contour/
 
 - **Segmentasi Dengan Metode Active Contour Untuk Peningkatan Akurasi Klasifikasi Citra USG Kanker Payudara Menggunakan K-Nearest Neighbor (KNN)**
+
   https://www.researchgate.net/publication/389897141
 
 ### 3. Segmentasi Warna (HSV)
