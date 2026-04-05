@@ -44,7 +44,7 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 - Fadillah, N., & Gunawan, C. R. (2019). **Segmentasi Citra CT Scan Paru-Paru dengan Menggunakan Metode Active Contour**. *JURIKOM (Jurnal Riset Komputer)*, 6(2), 126–132. https://doi.org/10.30865/jurikom.v6i2.1166
 
-- Mawarni, S. S., Murinto, M., & Sunardi, S. (2023). **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**. *Kesatria: Jurnal Penerapan Sistem Informasi (Komputer dan Manajemen)*, 4(2). https://doi.org/10.30645/kesatria.v4i2.175
+- Mawarni, S. S., Murinto, M., & Sunardi, S. (2023). **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**. *Kesatria: Jurnal Penerapan Sistem Informasi (Komputer dan Manajemen)*, 4(2). https://mti.uad.ac.id/download/segmentasi-citra-luka-luar-berbasis-warna-menggunakan-teknik-active-contour/
 
 ### 3. Segmentasi Warna (HSV)
 
