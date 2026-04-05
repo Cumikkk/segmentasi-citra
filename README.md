@@ -51,6 +51,7 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 ### 3. Segmentasi Warna (HSV)
 
 - **Deteksi Kematangan Buah Tomat Berdasarkan Fitur Warna Menggunakan Metode Transformasi Ruang Warna HIS**
+
   https://ejournal.unkhair.ac.id/index.php/jiko/article/view/1318/1058
 
 - **Klasifikasi Kematangan Buah Tomat dengan Variasi Model Warna Menggunakan Support Vector Machine**
