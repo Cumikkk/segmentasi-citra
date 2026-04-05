@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini merupakan tugas mata kuliah **Visi Komputer** yang mengimplementasikan empat metode segmentasi citra digital menggunakan Python di Google Colab, dengan objek studi berupa citra buah tomat. Segmentasi citra adalah proses memisahkan region-region bermakna dalam sebuah gambar — dalam konteks ini digunakan untuk membedakan tomat matang, tomat mentah, dan latar belakang, serta menghitung jumlah tomat yang sudah matang secara otomatis.
+Proyek ini merupakan tugas mata kuliah **Visi Komputer** yang mengimplementasikan empat metode segmentasi citra digital menggunakan Python di Google Colab, dengan objek studi berupa citra buah tomat. Segmentasi citra adalah proses memisahkan region-region bermakna dalam sebuah gambar dan dalam konteks ini digunakan untuk membedakan tomat matang, tomat mentah, dan latar belakang, serta menghitung jumlah tomat yang sudah matang secara otomatis.
 
 Keempat metode yang diimplementasikan:
 
@@ -11,7 +11,7 @@ Keempat metode yang diimplementasikan:
 3. **Segmentasi Warna (HSV)** — Membedakan tomat merah (matang) dari tomat hijau (mentah) dan background menggunakan ruang warna HSV.
 4. **Deteksi Tepi Canny** — Menemukan batas kontur seluruh tomat sekaligus menggunakan algoritma Canny edge detection.
 
-Sebagai bonus, terdapat metode kelima berupa **deteksi dan penghitungan otomatis tomat matang** menggunakan kombinasi morphological operations dan watershed algorithm.
+Terdapat juga metode kelima berupa **deteksi dan penghitungan otomatis tomat matang** menggunakan kombinasi morphological operations dan watershed algorithm.
 
 ## Cara Pakai
 
@@ -34,21 +34,27 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 ### 1. Thresholding (Otsu)
 
-- Syafi'i, S. I., Wahyuningrum, R. T., & Muntasa, A. (2016). **Segmentasi Obyek pada Citra Digital Menggunakan Metode Otsu Thresholding**. *Jurnal Informatika*, 13(1), 1–8. https://www.neliti.com/publications/107084/segmentasi-obyek-pada-citra-digital-menggunakan-metode-otsu-thresholding
+- **Segmentasi Obyek pada Citra Digital Menggunakan Metode Otsu Thresholding**
+  https://media.neliti.com/media/publications/107084-ID-none.pdf
 
-- Prayogi, D., Lubis, S. R., Rizko, M. A., & Suteja, A. G. (2025). **Optimalisasi Segmentasi Citra Digital Metode Canny Edge Detection dan Thresholding**. *RIGGS: Journal of Artificial Intelligence and Digital Business*. https://doi.org/10.62455/riggs.v2i2.1613
+- **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**
+  https://ojs.jurnalmahasiswa.com/index.php/bin/article/view/342/105
 
 ### 2. Active Contour (Snake)
 
-- Mawarni, S. S., Murinto, M., & Sunardi, S. (2023). **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**. *Kesatria: Jurnal Penerapan Sistem Informasi (Komputer dan Manajemen)*, 4(2). https://doi.org/10.30645/kesatria.v4i2.175
+- **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**
+  https://mti.uad.ac.id/download/segmentasi-citra-luka-luar-berbasis-warna-menggunakan-teknik-active-contour/
 
-- Mustafid, A., & 'Uyun, S. (2017). **Segmentasi Citra Sapi Berbasis Deteksi Tepi Menggunakan Algoritma Canny Edge Detection**. *Jurnal Buana Informatika*, 8(1), 27–36. https://doi.org/10.24002/jbi.v8i1.1074
+- **Segmentasi Citra Sapi Berbasis Deteksi Tepi Menggunakan Algoritma Canny Edge Detection**
+  https://doi.org/10.24002/jbi.v8i1.1074
 
 ### 3. Segmentasi Warna (HSV)
 
-- Pratama, R., Assagaf, A. F., & Tempola, F. (2019). **Deteksi Kematangan Buah Tomat Berdasarkan Fitur Warna Menggunakan Metode Transformasi Ruang Warna HIS**. *JIKO (Jurnal Informatika dan Komputer)*, 2(2). https://doi.org/10.33387/jiko.v2i2.1318
+- **Deteksi Kematangan Buah Tomat Berdasarkan Fitur Warna Menggunakan Metode Transformasi Ruang Warna HIS**
+  https://ejournal.unkhair.ac.id/index.php/jiko/article/view/1318/1058
 
-- Astrianda, N., et al. (2020). **Klasifikasi Kematangan Buah Tomat dengan Variasi Model Warna Menggunakan Support Vector Machine**. *VOCATECH: Vocational Education and Technology Journal*, 1(2). http://ojs.aknacehbarat.ac.id/index.php/vocatech/article/view/27
+- **Klasifikasi Kematangan Buah Tomat dengan Variasi Model Warna Menggunakan Support Vector Machine**
+  http://ojs.aknacehbarat.ac.id/index.php/vocatech/article/view/27
 
 ### 4. Deteksi Tepi Canny
 
