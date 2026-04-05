@@ -1,10 +1,8 @@
 # Implementasi Metode Segmentasi Citra Digital pada Gambar Tomat
 
-> Mata Kuliah: Visi Komputer
-
 ## Deskripsi
 
-Proyek ini mengimplementasikan empat metode segmentasi citra digital menggunakan Python di Google Colab, dengan objek studi berupa citra buah tomat. Segmentasi citra adalah proses memisahkan region-region bermakna dalam sebuah gambar — dalam konteks ini digunakan untuk membedakan tomat matang, tomat mentah, dan latar belakang, serta menghitung jumlah tomat yang sudah matang secara otomatis.
+Proyek ini merupakan tugas mata kuliah **Visi Komputer** yang mengimplementasikan empat metode segmentasi citra digital menggunakan Python di Google Colab, dengan objek studi berupa citra buah tomat. Segmentasi citra adalah proses memisahkan region-region bermakna dalam sebuah gambar — dalam konteks ini digunakan untuk membedakan tomat matang, tomat mentah, dan latar belakang, serta menghitung jumlah tomat yang sudah matang secara otomatis.
 
 Keempat metode yang diimplementasikan:
 
@@ -36,24 +34,24 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 ### 1. Thresholding (Otsu)
 
-- Syafi'i, S. I., Wahyuningrum, R. T., & Muntasa, A. (2016). **Segmentasi Obyek pada Citra Digital Menggunakan Metode Otsu Thresholding**. *Jurnal Informatika*, 13(1), 1–8. https://doi.org/10.9744/informatika.13.1.1-8
+- Syafi'i, S. I., Wahyuningrum, R. T., & Muntasa, A. (2016). **Segmentasi Obyek pada Citra Digital Menggunakan Metode Otsu Thresholding**. *Jurnal Informatika*, 13(1), 1–8. https://www.neliti.com/publications/107084/segmentasi-obyek-pada-citra-digital-menggunakan-metode-otsu-thresholding
 
-- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/index.php/bin/article/view/342
+- Prayogi, D., Lubis, S. R., Rizko, M. A., & Suteja, A. G. (2025). **Optimalisasi Segmentasi Citra Digital Metode Canny Edge Detection dan Thresholding**. *RIGGS: Journal of Artificial Intelligence and Digital Business*. https://doi.org/10.62455/riggs.v2i2.1613
 
 ### 2. Active Contour (Snake)
 
-- Fadillah, N., & Gunawan, C. R. (2019). **Segmentasi Citra CT Scan Paru-Paru dengan Menggunakan Metode Active Contour**. *JURIKOM (Jurnal Riset Komputer)*, 6(2), 126–132. https://doi.org/10.30865/jurikom.v6i2.1166
+- Mawarni, S. S., Murinto, M., & Sunardi, S. (2023). **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**. *Kesatria: Jurnal Penerapan Sistem Informasi (Komputer dan Manajemen)*, 4(2). https://doi.org/10.30645/kesatria.v4i2.175
 
-- Mawarni, S. S., Murinto, M., & Sunardi, S. (2023). **Segmentasi Citra Luka Luar Berbasis Warna Menggunakan Teknik Active Contour**. *Kesatria: Jurnal Penerapan Sistem Informasi (Komputer dan Manajemen)*, 4(2). https://mti.uad.ac.id/download/segmentasi-citra-luka-luar-berbasis-warna-menggunakan-teknik-active-contour/
+- Mustafid, A., & 'Uyun, S. (2017). **Segmentasi Citra Sapi Berbasis Deteksi Tepi Menggunakan Algoritma Canny Edge Detection**. *Jurnal Buana Informatika*, 8(1), 27–36. https://doi.org/10.24002/jbi.v8i1.1074
 
 ### 3. Segmentasi Warna (HSV)
 
 - Pratama, R., Assagaf, A. F., & Tempola, F. (2019). **Deteksi Kematangan Buah Tomat Berdasarkan Fitur Warna Menggunakan Metode Transformasi Ruang Warna HIS**. *JIKO (Jurnal Informatika dan Komputer)*, 2(2). https://doi.org/10.33387/jiko.v2i2.1318
 
-- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/index.php/bin/article/view/342
+- Astrianda, N., et al. (2020). **Klasifikasi Kematangan Buah Tomat dengan Variasi Model Warna Menggunakan Support Vector Machine**. *VOCATECH: Vocational Education and Technology Journal*, 1(2). http://ojs.aknacehbarat.ac.id/index.php/vocatech/article/view/27
 
 ### 4. Deteksi Tepi Canny
 
 - Mustafid, A., & 'Uyun, S. (2017). **Segmentasi Citra Sapi Berbasis Deteksi Tepi Menggunakan Algoritma Canny Edge Detection**. *Jurnal Buana Informatika*, 8(1), 27–36. https://doi.org/10.24002/jbi.v8i1.1074
 
-- Rahayu, S., Ridwansyah, & Purnama, J. J. (2025). **Analisis Pengaruh Threshold pada Metode Canny dan Sobel dalam Deteksi Tepi Citra Cabai**. *Jurnal Teknoinfo*, 19(2), 118–127. https://publikasi.teknokrat.ac.id/index.php/teknoinfo/article/view/162
+- Rahayu, S., Ridwansyah, & Purnama, J. J. (2025). **Analisis Pengaruh Threshold pada Metode Canny dan Sobel dalam Deteksi Tepi Citra Cabai**. *Jurnal Teknoinfo*, 19(2), 118–127. https://doi.org/10.33365/teknoinfo.v19i2.162
