@@ -38,7 +38,7 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 - Syafi'i, S. I., Wahyuningrum, R. T., & Muntasa, A. (2016). **Segmentasi Obyek pada Citra Digital Menggunakan Metode Otsu Thresholding**. *Jurnal Informatika*, 13(1), 1–8. https://doi.org/10.9744/informatika.13.1.1-8
 
-- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/ojs/index.php/bin/article/view/342
+- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/index.php/bin/article/view/342
 
 ### 2. Active Contour (Snake)
 
