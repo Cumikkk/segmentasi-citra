@@ -50,7 +50,7 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 - Pratama, R., Assagaf, A. F., & Tempola, F. (2019). **Deteksi Kematangan Buah Tomat Berdasarkan Fitur Warna Menggunakan Metode Transformasi Ruang Warna HIS**. *JIKO (Jurnal Informatika dan Komputer)*, 2(2). https://doi.org/10.33387/jiko.v2i2.1318
 
-- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/ojs/index.php/bin/article/view/342
+- Firdaus, H., Farizi, F., Syakur, R. A., Ramadhan, A. T., & Rosyani, P. (2024). **Deteksi Tingkat Kematangan Buah Tomat Menggunakan Pengolahan Citra dengan OpenCV dan Python**. *BIN: Bulletin of Informatics*, 2(1), 130–136. https://ojs.jurnalmahasiswa.com/index.php/bin/article/view/342
 
 ### 4. Deteksi Tepi Canny
 
