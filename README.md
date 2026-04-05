@@ -56,4 +56,4 @@ numpy, matplotlib, scikit-image, opencv-python, scipy, Pillow
 
 - Mustafid, A., & 'Uyun, S. (2017). **Segmentasi Citra Sapi Berbasis Deteksi Tepi Menggunakan Algoritma Canny Edge Detection**. *Jurnal Buana Informatika*, 8(1), 27–36. https://doi.org/10.24002/jbi.v8i1.1074
 
-- Rahayu, S., Ridwansyah, & Purnama, J. J. (2025). **Analisis Pengaruh Threshold pada Metode Canny dan Sobel dalam Deteksi Tepi Citra Cabai**. *Jurnal Teknoinfo*, 19(2), 118–127. https://doi.org/10.33365/teknoinfo.v19i2.162
+- Rahayu, S., Ridwansyah, & Purnama, J. J. (2025). **Analisis Pengaruh Threshold pada Metode Canny dan Sobel dalam Deteksi Tepi Citra Cabai**. *Jurnal Teknoinfo*, 19(2), 118–127. https://publikasi.teknokrat.ac.id/index.php/teknoinfo/article/view/162
